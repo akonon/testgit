@@ -1,2 +1,2 @@
-1. Review video 4
-2. Add new cards to Anki
+1. Add new cards to Anki
+2. MGL Review test
