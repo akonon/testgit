@@ -1,3 +1,1 @@
-This is a test project.
-
-I write here whatever I want.
+This is a test project for learning Git.
